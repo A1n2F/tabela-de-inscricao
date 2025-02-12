@@ -8,4 +8,4 @@ Projeto de uma tabela de confirmação do evento para praticar fundamentos de Ja
 
 -NLW#15 UNITE
 
-Project: 
+Project: https://a1n2f.github.io/tabela-de-inscricao/
